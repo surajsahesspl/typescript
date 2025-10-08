@@ -27,6 +27,6 @@ This folder contains TypeScript examples and exercises for learning TypeScript f
 - Primitive Types
 - Special Types
 - Arrays
-- - Readonly arrays
-- - String arrays
-- - Array methods (push, pop, map, filter, reduce)
+  - Readonly arrays
+  - String arrays
+  - Array methods (push, pop, map, filter, reduce)

@@ -4,3 +4,4 @@
 
 - **Type Inference**: While TypeScript's type inference is powerful, it sometimes led to unexpected behaviors that were hard to debug.
 
+- **Union and Intersection Types**: The behaviour of Union and Intersection types while: Creating objects and Accessing object properties.

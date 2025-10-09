@@ -1,7 +1,5 @@
 # TypeScript Learning
 
-This folder contains TypeScript examples and exercises for learning TypeScript fundamentals.
-
 ## Contents
 
 ## Getting Started
@@ -25,8 +23,26 @@ This folder contains TypeScript examples and exercises for learning TypeScript f
 
 - Type annotations
 - Primitive Types
+  - String
+  - Number
+  - Boolean
+  - Null
+  - Undefined
 - Special Types
+  - Any
+  - Unknown
+  - Never
+- Type Inference
 - Arrays
   - Readonly arrays
   - String arrays
   - Array methods (push, pop, map, filter, reduce)
+- Other types
+  - Object type
+  - Enum type
+  - Tuple type
+  - Void type
+  - Intersection type
+  - Union type
+- Type Aliases
+- Interfaces

@@ -1,7 +1,5 @@
 # TypeScript Learning
 
-## Contents
-
 ## Getting Started
 
 1. Install TypeScript globally:
@@ -21,28 +19,42 @@
 
 ## Topics Covered
 
-- Type annotations
-- Primitive Types
+#### Type annotations
+#### Primitive Types
   - String
   - Number
   - Boolean
   - Null
   - Undefined
-- Special Types
+#### Special Types
   - Any
   - Unknown
   - Never
-- Type Inference
-- Arrays
+#### Type Inference
+#### Arrays
   - Readonly arrays
   - String arrays
   - Array methods (push, pop, map, filter, reduce)
-- Other types
+#### Other types
   - Object type
   - Enum type
   - Tuple type
   - Void type
   - Intersection type
   - Union type
-- Type Aliases
-- Interfaces
+#### Type Aliases
+#### Interfaces
+
+#### Control Flow Statements
+  - if...else
+  - switch case
+  - loops (for, while do...while)
+  - break and continue
+#### Functions
+  - Function types
+  - Optional parameters
+  - Default parameters
+  - Rest parameters
+  - Anonymous function
+  - Arrow function
+  - Function overloading
